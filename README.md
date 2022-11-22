@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkhatorEnosa
 - 👀 I’m interested in ReactJs
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently building with ReactJs
 - 💞️ I’m looking to collaborate on projects concerning ReactJs
 - 📫 Reach me on aosakhogba@gmail.com. 
 
