@@ -13,8 +13,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhatorenosa&" alt="akhatorenosa" /></p>
 
-- 🙏🏽 Thanks for stopping by. 
-
+<h2 align="center">🙏🏽 Thanks for stopping by. 
+</h2>
 <!---
 AkhatorEnosa/AkhatorEnosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
