@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AkhatorEnosa
-- 👀 I’m interested in ReactJs
-- 🌱 I’m currently building with ReactJs
-- 💞️ I’m looking to collaborate on projects concerning ReactJs
-- 📫 Reach me on aosakhogba@gmail.com. 
+- 👋 Hi, I am Osakhogba Akhator
+- 🌱 I build projects for the web utilising HTML,CSS,JS,ReactJs and/or NextJs
+- 💞️ I’m looking to collaborate on projects
+- 📫 Reach me on aosakhogba@gmail.com
 
 - 🙏🏽 Thanks for stopping by. 
 
