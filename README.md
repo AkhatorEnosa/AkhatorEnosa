@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osakhogba Akhator</h1>
 <h3 align="center">Constantly Learning & Building</h3>
 
-- 🌱 I build projects for the web utilising HTML,CSS,JS,ReactJs and/or NextJs
+- 🌱 I build projects for the web utilising Javascript, ReactJs, Redux Toolkit, Supabase
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me on aosakhogba@gmail.com
 
