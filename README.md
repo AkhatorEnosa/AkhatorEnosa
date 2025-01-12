@@ -12,8 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhatorenosa&show_icons=true&locale=en" alt="akhatorenosa" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhatorenosa" alt="akhatorenosa streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Akhatorenosa&theme=react" alt="GitHub Streak" />
 <h2 align="center">🙏🏽 Thanks for stopping by. 
 </h2>
 <!---
