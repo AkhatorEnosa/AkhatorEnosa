@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Osakhogba Akhator</h1>
-<h3 align="center">Constantly Learning & Building</h3>
+# Osakhogba Akhator  
+Frontend Developer from Nigeria (GMT+1) | Open to Remote Roles  
 
-- 🌱 I build projects for the web utilising Javascript, ReactJs, Redux Toolkit, Supabase
-- 💞️ I’m looking to collaborate on projects
-- 📫 Reach me on aosakhogba@gmail.com
+I specialize in ReactJS, TailwindCSS, Redux Toolkit, and TanStack Query to build responsive, scalable web apps. Check my work:  
+- [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster APIs w/ TanStack Query)  
+- [myNoet](https://mynoet.netlify.app) - Note app (500+ notes, 99.9% uptime)  
+- [Lokateur](https://lokateur.netlify.app) - Geolocation tool (1,000+ API requests/month)  
+
+📫 Seeking remote frontend gigs—DM me on [LinkedIn](https://linkedin.com/in/osakhogba-akhator-024762139)!
 
 <h3 align="left">Languages and Tools:</h3>
 
