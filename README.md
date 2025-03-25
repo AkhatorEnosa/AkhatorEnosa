@@ -4,7 +4,7 @@ Frontend Developer from Nigeria (GMT+1) | Open to Remote Roles
 I specialize in ReactJS, TailwindCSS, Redux Toolkit, and TanStack Query to build responsive, scalable web apps. Check my work:  
 - [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster APIs w/ TanStack Query)  
 - [myNoet](https://mynoet.netlify.app) - Note app (500+ notes, 99.9% uptime)  
-- [Lokateur](https://lokateur.netlify.app) - Geolocation tool (1,000+ API requests/month)  
+- [Lokateur](https://lokateur.netlify.app) - Geolocation tool
 
 📫 Seeking remote frontend gigs—DM me on [LinkedIn](https://linkedin.com/in/osakhogba-akhator-024762139)!
 
