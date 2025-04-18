@@ -6,7 +6,7 @@ I specialize in ReactJS, TailwindCSS, Redux Toolkit, and TanStack Query to build
 - [myNoet](https://mynoet.netlify.app) - Note app (500+ notes, 99.9% uptime)  
 - [Lokateur](https://lokateur.netlify.app) - Geolocation tool
 
-📫 Seeking remote frontend gigs—DM me on [LinkedIn](https://linkedin.com/in/osakhogba-akhator-024762139)!
+📫 Open to remote frontend gigs—DM me on [LinkedIn](https://linkedin.com/in/osakhogba-akhator-024762139)!
 
 <h3 align="left">Languages and Tools:</h3>
 
