@@ -6,7 +6,7 @@ I specialize in ReactJS, TailwindCSS, Redux Toolkit, and TanStack Query to build
 - [myNoet](https://mynoet.netlify.app) - Note app (500+ notes, 99.9% uptime)  
 - [Shaup](https://shaup.netlify.app) - An E-commerce demo website
 
-📫 Open to remote frontend gigs —[Email me]mailto:aosakhobga@gmail.com)!
+📫 Open to remote frontend gigs —[Email me](mailto:aosakhobga@gmail.com)!
 
 <h3 align="left">Languages and Tools:</h3>
 
