@@ -1,5 +1,5 @@
 # Osakhogba Akhator  
-Frontend Developer from Nigeria (GMT+1) | Open to Remote Roles  
+Frontend Developer from Nigeria (GMT+1) 
 
 I specialize in ReactJS, TailwindCSS, Redux Toolkit, and TanStack Query to build responsive, scalable web apps. Check my work:  
 - [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster APIs w/ TanStack Query)  
