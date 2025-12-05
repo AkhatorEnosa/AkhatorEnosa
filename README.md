@@ -3,7 +3,7 @@ Frontend Developer from Nigeria (GMT+1)
 
 I specialize in ReactJS, TailwindCSS, Redux Toolkit, and TanStack Query to build responsive, scalable web apps. Check my work:  
 - [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster fetching w/ TanStack Query)  
-- [myNoet](https://mynoet.netlify.app) - Note app (500+ notes, 99.9% uptime)  
+- [wroteNote](https://wrotenote.netlify.app) - Note app (can handle 500+ notes per user, 99.9% uptime)  
 - [Shaup](https://shaup.netlify.app) - An E-commerce demo website
 
 📫 Open to remote frontend gigs —[Email me](mailto:aosakhobga@gmail.com)!
