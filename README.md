@@ -2,19 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=2500&pause=500&color=255f6f&center=true&vCenter=true&width=500&lines=HI,+I'M+OSAKHOGBA.;Software+Engineer.;Building+for+Web+%26+Mobile.;Bienvenido+a+mi+casa!" alt="Typing SVG" />
 
   <p>
-    <a href="https://www.linkedin.com/in/osakhogba-akhator-024762139/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="https://akhatorosa.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white" /></a>
-    <a href="mailto:aosakhobga@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/osakhogba-akhator-024762139/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://akhatorosa.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white" /></a>
+    <a href="mailto:aosakhobga@gmail.com" target="blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=&logoColor=white" /></a>
   </p>
 </div>
 
----
+--- 
 
 ### 🚀 About Me
 I'm a versatile **Software Engineer** specializing in creating seamless user experiences across web and mobile platforms. Currently focusing on scalable architectures with **Next.js** and **React Native**. Check out some of my work:  
 - [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster fetching w/ TanStack Query)  
 - [wroteNote](https://wrotenote.netlify.app) - Note app (can handle 500+ notes per user, 99.9% uptime)  
-- [Shaup](https://shaup.netlify.app) - An E-commerce demo website
+- [Shaup](https://shaup.netlify.app) - An E-commerce demo website 
+- [PrizQuiz](https://prizquiz.netlify.app) - A word-unscrambling game designed for unscrambling letters to form words
 
 ---
 
