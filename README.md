@@ -15,7 +15,7 @@ I'm a versatile **Software Engineer** specializing in creating seamless user exp
 - [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster fetching w/ TanStack Query)  
 - [wroteNote](https://wrotenote.netlify.app) - Note app (can handle 500+ notes per user, 99.9% uptime)  
 - [Shaup](https://shaup.netlify.app) - An E-commerce demo website 
-- [PrizQuiz](https://prizquiz.netlify.app) - A word-unscrambling game designed for unscrambling letters to form words
+- [TradrJourney](https://tradrjourney.netlify.app) - A beautiful, powerful trade journal that helps you analyze your performance, identify patterns, and become a more profitable trader.
 
 ---
 
