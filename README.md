@@ -11,7 +11,7 @@
 --- 
 
 ### 🚀 About Me
-I'm a versatile **Software Engineer** specializing in creating seamless user experiences across web and mobile platforms. Currently focusing on scalable architectures with **Next.js** and **React Native**. Check out some of my work:  
+I'm a versatile **Web Developer** specializing in creating seamless user experiences across web and mobile platforms. Currently focusing on scalable architectures with **Next.js** and **React Native**. Check out some of my work:  
 - [Soozeer](https://soozeer.netlify.app) - Social platform (10% faster fetching w/ TanStack Query)  
 - [wroteNote](https://wrotenote.netlify.app) - Note app (can handle 500+ notes per user, 99.9% uptime)  
 - [Shaup](https://shaup.netlify.app) - An E-commerce demo website 
