@@ -59,6 +59,6 @@ I'm a versatile **Web Developer** specializing in creating seamless user experie
   <img src="https://komarev.com/ghpvc/?username=akhatorenosa&label=Visitors&color=255f6f&style=flat" alt="visitor count" /> 
 </p>
 
-### 📫 Open to working with a Software Engineer? — [Email me](mailto:aosakhobga@gmail.com)!
+### 📫 Open to working with a Web Developer? — [Email me](mailto:aosakhobga@gmail.com)!
 
 <h2 align="center">🙏🏽 Thanks for stopping by.</h2>
